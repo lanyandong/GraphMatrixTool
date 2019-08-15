@@ -1,20 +1,26 @@
 # GraphMatrixTool
 A Tool for Visualizing GraphMatrix，With the help of [Graphviz](http://www.graphviz.org/)，[Viz.js](https://github.com/mdaines/viz.js/)，[GraphvizOnline](https://dreampuf.github.io/GraphvizOnline/#)
 
-Basic process：
+**Basic process**：
 
 ![graphviz](./img/graphviz.png)
 
 
 
-example output：
+**example output**：
 
 <table>
     <tr>
-        <td ><center><img src="./img/UG.png" >图1 无向图可视化</center></td>
-        <td ><center><img src="./img/DG.png" >图2 有向图可视化</center></td>
+        <td ><center><img src="./img/UG.png" >g1 Undirected</center></td>
+        <td ><center><img src="./img/DG.png" >g2 Directed</center></td>
     </tr>
 </table>
 
 
 
+**TODO**：
+
+* [x] GraphMatrixApp
+* [x] BinTreeApp
+
+There is a lot that can be done in this way, if there is enough time.
